@@ -11,3 +11,26 @@ h1, h2, h3, h4, h5, h6 {
     background-image: url('../images/Dalmatian_Samba.jpg');
     margin-top: 24px ;
 }
+
+.white{
+    color: white;
+}
+
+.titulo{
+    text-align: center;
+}
+
+td {
+    padding: 30px;
+    
+}
+
+table{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+hr{
+    border-width: 3px;
+    width: 800px;
+}
